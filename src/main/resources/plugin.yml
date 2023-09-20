@@ -1,0 +1,4 @@
+name: AuraSmpSeason2
+version: '${project.version}'
+main: at.gmandev.aurasmpseason2.AuraSmpSeason2
+api-version: '1.20'
